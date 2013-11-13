@@ -20,7 +20,7 @@ Todo
 
 Download the LedControl.zip from http://playground.arduino.cc/Main/LedControl. And install by extracting the directory from the archive and then in the Arduino IDE Select Sketch->Import Library->Add Library.
 
-### Usage:
+### Usage
 
 The default mode is to display the remaining rounds in your gun. To set the current number of rounds, press the reset button ( connected to digital pin 4 ) and it will cycle between the standard nerf magazine sizes. To remove a round manually hit the action button ( digital pin 3 ). 
 
