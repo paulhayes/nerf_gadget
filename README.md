@@ -18,7 +18,7 @@ Todo
 
 ### Libraries
 
-Download the LedControl.zip from http://playground.arduino.cc/Main/LedControl. And install by extracting the directory from the archive and in the Arduino IDE Select Sketch->Import Library->Add Library.
+Download the LedControl.zip from http://playground.arduino.cc/Main/LedControl. And install by extracting the directory from the archive and then in the Arduino IDE Select Sketch->Import Library->Add Library.
 
 ### Usage:
 
