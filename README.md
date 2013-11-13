@@ -30,4 +30,8 @@ To switch to bullet speedometer, hit the mode button ( connected to digital pin 
 
 * Power save mode
 
+### Donate
+
+If you have any changes you'd like me to make, please request them on this github project. If you'd like me to make more things like this, or would like to say thank you for these instructions. Please use the Flattr link below [![Flattr Button](http://api.flattr.com/button/button-static-50x60.png "Flattr This!")](https://github.com/paulhayes/nerf_gadget "Nerf Gadget Instructions")
+
 
