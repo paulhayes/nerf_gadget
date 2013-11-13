@@ -9,7 +9,7 @@ You'll need:
 
 1. Arduino Nano or similar 
 2. 2x Max7129 and LED seven segment display. You can build this yourself, or buy this premade, here's the supplier I used: 
-  http://www.kibuck.com/2-digit-spi-module.html
+  http://www.kibuck.com/2-digit-spi-module.html?___store=en
 3. IR LED Emitter and IR Photodiode. Probably a good idea to buy this as a pair. I used these ( ir53l & bpw41n ) [http://r.ebay.com/zvAGXm](http://r.ebay.com/zvAGXm)
 4. 3x push buttons ( I was extremely lazy and bought this debounced 6 button module, but it's complete overkill: http://r.ebay.com/gYIwUL )
 
