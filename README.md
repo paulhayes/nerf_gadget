@@ -1,6 +1,9 @@
 # Nerf Gadget
 ## Bullet speed measurment and remaining rounds indicator.
 
+
+###Please note, consider using the far cheaper and superior <span style="color:red">[Nerf Gadget 2](https://github.com/paulhayes/nerf_gadget_2)</span>
+
 Measure your nerf gun's bullet speed, and keep a track of how many rounds you've got left with this simple Arduino sketch, created for Arduino Nano ( for mounting on the side of your nerf gun ). Ideal for automatic and semi-automatic nerf guns.
 
 ### Components
